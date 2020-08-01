@@ -1,14 +1,13 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: HSBC, Global Technology Graduate Program
     url: ""
 superuser: true
 authors:
   - admin
 title: Oishi Poddar
-role: Software engineer at HSBC
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Software engineer
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,4 +41,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Oishi is a
+ddsdsdOishi is a
