@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -74,4 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[[experience]] title = "Predicting Web Browsing Patterns - A Recommendation System Extension" company = "Prof. Nisheeth Srivastava" company_url = "https://www.cse.iitk.ac.in/users/nsrivast/" location = "IIT Kanpur" date_start = "2019-08-01" date_end = "" description = """ Built meta representations for the URLs from the web browsing history, topic modelled these representations, and analysed browsing patterns. """
+
