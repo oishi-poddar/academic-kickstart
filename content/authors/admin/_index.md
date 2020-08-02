@@ -27,15 +27,15 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "B.Tech in Computer Science and Engineering, CGPA: 9.41/10"
+      institution: Kalinga Institute of Industrial Technology(KIIT), Bhubaneswar, India
+      year: ""
+    - course: XII- I.S.C, 97%
+      institution: G.D.Birla Centre For Education, India
+      year: 2019
+    - course: X- I.C.S.E, 95.2%
+      institution: G.D.Birla Centre For Education, India
+      year: 2015
 email: ""
 user_groups:
   - Researchers
