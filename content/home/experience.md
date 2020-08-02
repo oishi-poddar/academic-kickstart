@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Pune, India"
   date_start = "2019-07-08"
-  date_end = "Present"
+  date_end = ""
   description = """" Tried to build app 
   * first
   """
