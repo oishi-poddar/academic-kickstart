@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-08"
   date_end = "Present"
   description = "Tried to build app"
+  """"
   * Building a 
   * Working on
   """
