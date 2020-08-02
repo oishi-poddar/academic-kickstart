@@ -24,13 +24,15 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2019-07-08"
   date_end = "Present"
-  description = """" Tried to build app """
+  description = """" Tried to build app 
+  * first
+  """
  # Responsibilities include:
   
   #* Analysing
   #* Modelling
   #* Deploying
-  """
+ # """
 
 [[experience]]
   title = "Professor"
