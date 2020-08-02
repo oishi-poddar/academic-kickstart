@@ -1,12 +1,13 @@
 ---
+title: Oishi Poddar
+role: Software engineer
+avatar_filename: img_0202.jpg
 organizations:
   - name: HSBC, Global Technology Graduate Program
     url: ""
 superuser: true
 authors:
   - admin
-title: Oishi Poddar
-role: Software engineer
 bio: ""
 interests:
   - Artificial Intelligence
