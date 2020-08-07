@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/oishi-poddar/Adaptive-Reading-and-Interactive-Voice-Assistant"
-url_pdf: "https://docs.google.com/document/d/1zkLDG2lomNYTVK5Vut6UdWJc3Nf2BaZlf6oESdUvKE4/edit?usp=sharing"
+url_code: "https://github.com/oishi-poddar/Covid-19_predictor"
+url_pdf: "https://docs.google.com/document/d/1QHS4uZPOlL27JIhcs9Ve6GG5fZH_lpwgLIp0CzL-_RA/edit?usp=sharing"
 url_slides: ""
-url_video: "https://drive.google.com/file/d/1eT6ZqzlBvGoC7Cx-JKbv3XQuPvjvSEx-/view?usp=sharing"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,4 +39,4 @@ url_video: "https://drive.google.com/file/d/1eT6ZqzlBvGoC7Cx-JKbv3XQuPvjvSEx-/vi
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-A.R.I.V.A. is an Adaptive Reading and Interactive Voice Assistant; it is an application which can QR-scan or import a document - both structured and unstructured - and then read the document back to the user, with unique options for interactivity. Users can pause, play, rewind and skip forward through the document, in addition to performing search queries and data analysis within the file. A.R.I.V.A has additional support functions, such as saving and retrieving already-uploaded documents, or taking a user directly into a customer support phone call when requested - and is secured using a voice authentication system.
+This project leverages machine learning to forecast the number of Covid-19 cases in India. The models used are linear regression, elastic net regression and multi-layer perceptron neural network.
