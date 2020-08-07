@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software engineer"
+  title = "Software Engineer"
   company = "HSBC"
   company_url = "https://www.hsbc.com/"
   location = "Pune, India"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * The portal is based on a microservice architecture and the technologies used are PostGreSQL, Java and React.
   """
 [[experience]]
-  title = "Software engineering intern"
+  title = "Software Engineering Intern"
   company = "Autodesk"
   company_url = "https://www.autodesk.in/"
   location = "Pune, India"

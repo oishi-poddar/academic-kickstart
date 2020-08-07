@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Covid-19 predictor"
-summary: "Leveraging machine learning models to predict number of Covid-19 cases in India"
+summary: "A machine learning based model to predict number of Covid-19 cases in India"
 authors: []
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 url_code: "https://github.com/oishi-poddar/Adaptive-Reading-and-Interactive-Voice-Assistant"
 url_pdf: "https://docs.google.com/document/d/1zkLDG2lomNYTVK5Vut6UdWJc3Nf2BaZlf6oESdUvKE4/edit?usp=sharing"
 url_slides: ""
-url_video: ""
+url_video: "https://drive.google.com/file/d/1eT6ZqzlBvGoC7Cx-JKbv3XQuPvjvSEx-/view?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+A.R.I.V.A. is an Adaptive Reading and Interactive Voice Assistant; it is an application which can QR-scan or import a document - both structured and unstructured - and then read the document back to the user, with unique options for interactivity. Users can pause, play, rewind and skip forward through the document, in addition to performing search queries and data analysis within the file. A.R.I.V.A has additional support functions, such as saving and retrieving already-uploaded documents, or taking a user directly into a customer support phone call when requested - and is secured using a voice authentication system.

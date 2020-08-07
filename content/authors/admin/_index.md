@@ -1,6 +1,6 @@
 ---
 title: Oishi Poddar
-role: Software engineer
+role: Software Engineer
 avatar_filename: dp1.jpg
 organizations:
   - name: HSBC, Global Technology Graduate Program
@@ -12,7 +12,7 @@ bio: ""
 interests:
   - Artificial Intelligence
   - Machine and deep learning
-  - Computer vision
+  - Computer Vision
   - NLP
 social:
   - icon: envelope
@@ -43,5 +43,5 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Oishi is a computer science and engineering graduate and is currently working at HSBC under the Global Graduate Technology Program. She has undertaken a number of academic and corporate internships during her undergraduate degree and has a deep interest in the field of
+Oishi is a Computer Science and Engineering graduate from [KIIT University, India](https://kiit.ac.in/) and is currently working at [HSBC](https://www.hsbc.com/careers/where-we-hire/india/technology) under the Global Graduate Technology Program. She has undertaken a number of academic and corporate internships during her undergraduate degree and has a deep interest in the field of
  Artificial Intelligence.

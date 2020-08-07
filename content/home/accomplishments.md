@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-03"
   date_end = ""
   description = """
-Selected to participate in the MLSS summer school to learn more about the fundamentals and the current state of the art in machine learning and deep learning, including relevant applications to data science, computer vision, and natural language processing. This school scheduled to be held in Indonesia was held virtually due to Covid-19.
+Selected to participate in the MLSS summer school to learn more about the fundamentals and the current state of the art in machine learning and deep learning, including relevant applications to data science, computer vision, and natural language processing. This school, scheduled to be held in Indonesia was held virtually due to Covid-19.
 """
 
 [[item]]
@@ -40,7 +40,7 @@ Selected to participate in the MLSS summer school to learn more about the fundam
   date_start = "2020-07-03"
   date_end = ""
   description = """
-Selected to participate in the EEML summer school on Deep Learning and Reinforcement Learning, sponsored by Google DeepMind. This school scheduled to be held in Poland was held virtually due to the ongoing pandemic.
+Selected to participate in the EEML summer school on Deep Learning and Reinforcement Learning, sponsored by Google DeepMind. This school scheduled to be held in Poland was held virtually due to Covid-19.
 """
 
 [[item]]
