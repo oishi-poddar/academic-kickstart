@@ -24,11 +24,12 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Machine Learning Summer School, Indonesia (MLSSIndo, 2020)"
   url = "https://mlss.telkomuniversity.ac.id/"
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://drive.google.com/file/d/1jmZ9zFFcEUT7ikW62cbvXLTWrEEtyW3c/view?usp=sharing"
   date_start = "2020-08-03"
   date_end = ""
   description = """
 Selected to participate in the MLSS summer school to learn more about the fundamentals and the current state of the art in machine learning and deep learning, including relevant applications to data science, computer vision, and natural language processing. This school, scheduled to be held in Indonesia was held virtually due to Covid-19.
+Our group project proposal "Deep Learning for Sustainable Urban Development and Resource Management from Aerial Images in the Global South" on the theme "AI for developing countries" was chosen to be **_one of the top 3 best proposals_**.
 """
 
 [[item]]
