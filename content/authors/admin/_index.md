@@ -34,10 +34,10 @@ education:
       year: "2015-2019"
     - course: XII- I.S.C, 97%
       institution: G.D.Birla Centre For Education, India
-      year: 2019
+      year: 2015
     - course: X- I.C.S.E, 95.2%
       institution: G.D.Birla Centre For Education, India
-      year: 2015
+      year: 2013
 email: oishi.poddar@gmail.com
 user_groups:
   - Researchers
