@@ -19,7 +19,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Languages and Databases"
-  description = "Python, Java, HTML, SQL, MongoDB, HTML, JavaScript"
+  description = "Python, Java, SQL, MongoDB, HTML, JavaScript"
   
 [[feature]]
   icon = "git-square"

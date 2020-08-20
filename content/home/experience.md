@@ -56,7 +56,7 @@ date_format = "Jan 2006"
 **One of the top 8% out of the 10,000 undergraduate students from 9 different countries to undertake a [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) in 
 Canada.**
 * Performed a systematic mapping study to research into the customization of technology for autistic individuals. The resultant research paper has been accepted for publication in an international journal. [[link](https://doi.org/10.1080/10447318.2020.1731673)]
-* Researched into gathering real-time data from two wearable devices and analyzed them to study  spikes in biological signals like heart rate,stress levels to facilitate immediate assistance to autistic children.
+* Researched into gathering real-time data from two wearable devices(Python API's and MATLAB) and analyzed them to study  spikes in biological signals like heart rate,stress levels to facilitate immediate assistance to autistic children.
 """
 
 [[experience]]
