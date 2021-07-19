@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   company_url = "https://www.hsbc.com/"
   location = "Pune, India"
   date_start = "2019-07-08"
-  date_end = ""
+  date_end = "2021-08-07"
   description = """ 
-
+  * Used Python and OpenCV to process images of text and extract required fields and text from the images.
   * As part of Business Services, Wholesale banking, developing a portal for global and industry leading client account onboarding and lifecycle management solution for fast, secure and efficient onboarding with streamlined client lifecycle experience. 
   * Some of the features developed are automated decision driven forms enabled for Secondary Account Opening, Know Your Customer(KYC) renewal, Sanctions Exposure Questionaire. 
   * Delivered an end-to-end customer journey for an urgent Covid-19 requirement- US Paycheck Protection programme, part of the US CARES Act stimulus package within 8 weeks amidst changing US govt guidance. After 1600 production releases by my team, a digital channel was provided to facilitate end-to-end loan forgiveness process.

@@ -1,10 +1,10 @@
 ---
 title: Oishi Poddar
-role: Software Engineer
+role: Masters in Computer Science student
 avatar_filename: dp1.jpg
 organizations:
-  - name: HSBC, Global Technology Graduate Program
-    url: "https://www.hsbc.com/careers/where-we-hire/india/technology"
+  - name: University of California San Diego
+    url: "https://cse.ucsd.edu/graduate/degree-programs/ms-program"
 superuser: true
 authors:
   - admin
@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:oishi.poddar@gmail.com"
+    link: "mailto:opoddar@ucsd.edu"
   - icon: linkedin
     icon_pack: fab
     link: "https://www.linkedin.com/in/oishi-poddar/"
@@ -29,6 +29,9 @@ social:
     link: https://github.com/oishi-poddar
 education:
   courses:
+    - course: "Masters in Computer Science"
+      institution: University of California San Diego, USA
+      year: "Fall, 2021"
     - course: "B.Tech in Computer Science and Engineering, CGPA: 9.41/10"
       institution: Kalinga Institute of Industrial Technology(KIIT), Bhubaneswar, India
       year: "2015-2019"
@@ -38,10 +41,9 @@ education:
     - course: X- I.C.S.E, 95.2%
       institution: G.D.Birla Centre For Education, India
       year: 2013
-email: oishi.poddar@gmail.com
+email: opoddar@ucsd.edu
 user_groups:
   - Researchers
   - Visitors
 ---
-Oishi is a Computer Science and Engineering graduate from [KIIT University, India](https://kiit.ac.in/) and is currently working at [HSBC](https://www.hsbc.com/careers/where-we-hire/india/technology) under the Global Graduate Technology Program. She has undertaken a number of academic and corporate internships during her undergraduate degree and has a deep interest in the field of
- Artificial Intelligence. On the lookout for research/project opportunities and collaborations in this field.
+Oishi is a Masters in Computer Science student at the University of California, San Diego(Fall, 2021). She graduated as a Computer Science and Engineering graduate from [KIIT University, India](https://kiit.ac.in/) and worked at [HSBC](https://www.hsbc.com/careers/where-we-hire/india/technology) under the [Global Graduate Technology Program](https://www.hsbc.com/careers/where-we-hire/india/technology) for 2 years. She has undertaken a number of academic and corporate internships during her undergraduate degree and has a deep interest in the field of Artificial Intelligence. She is on the lookout for internship opportunities in the field of data science and software engineering for Summer 2022.

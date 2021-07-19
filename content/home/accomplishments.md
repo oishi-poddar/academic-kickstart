@@ -18,10 +18,33 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Virtual"
+  organization_url = "http://lxmls.it.pt/2021/"
+  title = "Lisbon Machine Learning Summer School, 2021"
+  url = "http://lxmls.it.pt/2021/"
+  certificate_url = "https://drive.google.com/file/d/1rhTObczzApYtLbI4AiW6J_PiZA-vqmBj/view?usp=sharing"
+  date_start = "2021-07-07"
+  date_end = "2021-07-15"
+  description = """
+Selected to participate in the Lisbon ML summer school focusing on NLP and Computational Linguistics, sponsored by universities in Portugal. This school scheduled to be held in Lisbon was held virtually due to Covid-19.
+"""
 
 [[item]]
   organization = "Virtual"
-  organization_url = ""
+  organization_url = "https://www.eeml.eu/home"
+  title = "Eastern European Machine Learning (EEML) Summer School, 2021"
+  url = "https://www.eeml.eu/home"
+  certificate_url = "https://drive.google.com/file/d/1MFhL5D5HLG9M4FcF1Viapv518WqAKUuS/view?usp=sharing"
+  date_start = "2021-07-07"
+  date_end = "2021-07-15"
+  description = """
+Selected to participate in the EEML summer school on Deep Learning and Reinforcement Learning, sponsored by Google DeepMind. This school scheduled to be held in Budapest was held virtually due to Covid-19.
+"""
+
+[[item]]
+  organization = "Virtual"
+  organization_url = "http://mlss.tuebingen.mpg.de/2020/"
   title = "Machine Learning Summer School, Indonesia (MLSSIndo, 2020)"
   url = "https://mlss.telkomuniversity.ac.id/"
   certificate_url = "https://drive.google.com/file/d/14dtyjkAxGaUG5E_yc1L3Plx75NplsUWP/view?usp=sharing"
@@ -34,8 +57,8 @@ Our group project proposal "Deep Learning for Sustainable Urban Development and 
 
 [[item]]
   organization = "Virtual"
-  organization_url = ""
-  title = "Eastern European Machine Learning (EEML) Summer School"
+  organization_url = "https://www.eeml.eu/home"
+  title = "Eastern European Machine Learning (EEML) Summer School, 2020"
   url = "https://www.eeml.eu/home"
   certificate_url = "https://drive.google.com/file/d/1MFhL5D5HLG9M4FcF1Viapv518WqAKUuS/view?usp=sharing"
   date_start = "2020-07-03"
@@ -45,15 +68,15 @@ Selected to participate in the EEML summer school on Deep Learning and Reinforce
 """
 
 [[item]]
-  organization = "Awardee of Women in Machine Learning(WiML) funding to attend ICLR,20"
+  organization = "Awardee of Women in Machine Learning(WiML) funding to attend ICLR,20 and ICLR 2021"
   organization_url = "https://wimlworkshop.org/"
-  title = "International Conference on Learning Representations(ICLR), 2020"
+  title = "International Conference on Learning Representations(ICLR), 2020 and 2021"
   url = "https://iclr.cc/Conferences/2020"
   certificate_url = "https://drive.google.com/file/d/1rxw1bdPltNwjPrrgA79OMczdXW2elCRq/view?usp=sharing"
   date_start = "2020-04-03"
   date_end = ""
   description = """
-Was once among the 103 awardees chosen to receive funding for the registration fee to attend the virtual International Conference on Learning Representation (ICLR), 2020.
+Was once among the 103 awardees chosen to receive funding for the registration fee to attend the virtual International Conference on Learning Representation (ICLR), 2020 and 2021.
 """
 
 [[item]]

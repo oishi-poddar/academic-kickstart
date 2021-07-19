@@ -19,6 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Machine Learning Devops Engineer Nanodegree"
+  url = "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821"
+  certificate_url = "https://confirm.udacity.com/MLLEDTKK"
+  date_start = "2021-06-01"
+  date_end = "2021-07-01"
+  description = """
+Serving as a Udacity mentor for the Machine Learning Devops Engineer Nanodegree program. Roles and responsibilities include grading student projects, answering student technical doubts and questions.
+"""
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Machine Learning Engineer Nanodegree"
+  url = "https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t"
+  certificate_url = "https://confirm.udacity.com/ZHTTFLTL"
+  date_start = "2020-10-01"
+  date_end = "2020-11-01"
+  description = """
+"""
+
+[[item]]
   organization = "Coursera (deeplearning.ai)"
   organization_url = "https://www.coursera.org"
   title = "Deep Learning Specialisation"
