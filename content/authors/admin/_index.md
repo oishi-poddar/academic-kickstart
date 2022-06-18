@@ -31,7 +31,7 @@ education:
   courses:
     - course: "Masters in Computer Science, GPA : 4.0/4.0"
       institution: University of California San Diego, USA
-      year: "Fall, 2021"
+      year: "Winter, 2023"
     - course: "B.Tech in Computer Science and Engineering, CGPA: 9.41/10"
       institution: Kalinga Institute of Industrial Technology(KIIT), Bhubaneswar, India
       year: "2015-2019"
