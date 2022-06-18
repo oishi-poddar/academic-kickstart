@@ -29,7 +29,7 @@ social:
     link: https://github.com/oishi-poddar
 education:
   courses:
-    - course: "Masters in Computer Science"
+    - course: "Masters in Computer Science, GPA : 4.0/4.0"
       institution: University of California San Diego, USA
       year: "Fall, 2021"
     - course: "B.Tech in Computer Science and Engineering, CGPA: 9.41/10"
@@ -46,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Oishi is a Masters in Computer Science student at the University of California, San Diego graduating in March, 2023). She is currently undertaking a software engineering internship at Meta, California working on using machine learning to improve the ranking of Facebook group recommendations. She graduated as a Computer Science and Engineering graduate from [KIIT University, India](https://kiit.ac.in/) and worked at [HSBC](https://www.hsbc.com/careers/where-we-hire/india/technology) under the [Global Graduate Technology Program](https://www.hsbc.com/careers/where-we-hire/india/technology) for 2 years. She has undertaken a number of academic and corporate internships during her undergraduate degree and has a deep interest in the field of Artificial Intelligence. She is on the lookout for full-time opportunities in the field of machine learning, data science and software engineering starting April 2023.
+Oishi is a Masters in Computer Science student at the University of California, San Diego graduating in March, 2023). She is currently undertaking a software engineering internship at [Meta, California](https://about.facebook.com/) working on using machine learning to improve the ranking of Facebook group recommendations. She graduated as a Computer Science and Engineering graduate from [KIIT University, India](https://kiit.ac.in/) and worked at [HSBC](https://www.hsbc.com/careers/where-we-hire/india/technology) under the [Global Graduate Technology Program](https://www.hsbc.com/careers/where-we-hire/india/technology) for 2 years. She has undertaken a number of academic and corporate internships during her undergraduate degree and has a deep interest in the field of Artificial Intelligence. She is on the lookout for full-time opportunities in the field of machine learning, data science and software engineering starting April 2023.
