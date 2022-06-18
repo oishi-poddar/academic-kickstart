@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
 
+  title = "Software Engineer Intern"
+  company = "Meta"
+  company_url = "https://www.hsbc.com/"
+  location = "California, USA"
+  date_start = "2022-06-13"
+  date_end = "2022-09-02"
+  description = """ 
+  * Using machine learning to improve the ranking of group recommended on Facebook."""
+[[experience]]
+
   title = "Software Engineer"
   company = "HSBC"
   company_url = "https://www.hsbc.com/"
