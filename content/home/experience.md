@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2022-06-13"
   date_end = "2022-09-02"
   description = """ 
-  * Using machine learning to improve the ranking of group recommended on Facebook."""
+  * Using machine learning to improve the ranking of groups recommended on Facebook."""
 [[experience]]
 
   title = "Software Engineer"
